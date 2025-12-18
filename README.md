@@ -21,7 +21,7 @@
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| **[Battle Of 6 Nations]ссылка на живой демо)** | Веб пошаговая стартегия | React, TypeScript |
+| **[Battle Of 6 Nations]![Скриншот](/assets/MainMenu.png)[Скриншот](/assets/Battle.png)[Скриншот](/assets/AttackPickingMenu.png)** | Веб пошаговая стартегия | React, TypeScript |
 
 
 > **Посмотреть все мои проекты можно в [моих репозиториях](https://github.com/ВАШ_ЛОГИН?tab=repositories).**
