@@ -15,25 +15,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Стилизация:**
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-**Инструменты и окружение:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**В процессе изучения / хочу углубить:**
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-
----
-
 ## 💼 Мои проекты
 
 Здесь несколько ключевых проектов, которые демонстрируют мои навыки:
@@ -52,7 +33,7 @@
 
 <!-- Эта секция сгенерируется автоматически, когда вы добавите код ниже и закоммитите файл. Не забудьте заменить YOUR-USERNAME! -->
 
-[![Codewars](https://github.r2v.ch/codewars?user=The_Monk&top_languages=true)](https://www.codewars.com/users/The Monk) <!-- Опционально, показывает навык решения задач -->
+[![Codewars](https://github.r2v.ch/codewars?user=The%20Monk&top_languages=true)](https://www.codewars.com/users/The%20Monk)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Konstantin7200&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
@@ -73,8 +54,8 @@
 
 Я открыт для предложений о работе, стажировках, менторстве или просто для общения о технологиях!
 
-*   **Telegram:** [@ваш_телеграм](https://t.me/@Guy100111) (предпочтительный способ)
-*   **Почта:** [konstantinslivko2053@gmail.com](mailto:your.email@example.com)
+*   **Telegram:** @Guy100111 (предпочтительный способ)
+*   **Почта:** [konstantinslivko2053@gmail.com](mailto:[konstantinslivko2053@gmail.com)
 *   **LinkedIn:** [Ваш профиль](https://linkedin.com/in/your-profile) <!-- Очень рекомендую создать! -->
 *   **Резюме:** [Ссылка на ваше резюме на HH.ru или PDF] <!-- Сильно повышает конверсию! -->
 
