@@ -1,4 +1,4 @@
-# 👨‍💻 Добрый день, меня зовут Константин!
+# 👨‍💻 Добрый день!
 
 ### Фронтенд-разработчик на React & TypeScript
 
@@ -21,10 +21,12 @@
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| **[Battle Of 6 Nations]![Скриншот](/assets/MainMenu.png)[Скриншот](/assets/Battle.png)[Скриншот](/assets/AttackPickingMenu.png)** | Веб пошаговая стартегия | React, TypeScript |
+| **[Battle Of 6 Nations]**| Веб пошаговая стартегия | React, TypeScript |
+| **Скриншоты проекта:** | ![Главное меню](/assets/MainMenu.png) | ![Битва](/assets/Battle.png) |
+| | ![Выбор атаки](/assets/AttackPicking.png) | |
 
 
-> **Посмотреть все мои проекты можно в [моих репозиториях](https://github.com/ВАШ_ЛОГИН?tab=repositories).**
+> **Посмотреть все мои проекты можно в [моих репозиториях](https://github.com/Konstantin7200?tab=repositories).**
 
 ---
 
@@ -38,16 +40,23 @@
 
 </div>
 
+---
 
-## 📬 Как со мной связаться
+### 💌 Контакты
 
-Я открыт для предложений о работе, стажировках, менторстве или просто для общения о технологиях!
+<div align="center">
 
-*   **Telegram:** @Guy100111 (предпочтительный способ)
-*   **Почта:** [konstantinslivko2053@gmail.com](mailto:[konstantinslivko2053@gmail.com)
-*   **LinkedIn:** [Ваш профиль](https://linkedin.com/in/your-profile) <!-- Очень рекомендую создать! -->
-*   **Резюме:** [Ссылка на ваше резюме на HH.ru или PDF] <!-- Сильно повышает конверсию! -->
+| Контакт | Ссылка |
+| :--- | :--- |
+| **Telegram** | [![Telegram](https://img.shields.io/badge/@Guy100111-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/guy100111) |
+| **Email** | [![Email](https://img.shields.io/badge/konstantinslivko2053@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:konstantinslivko2053@gmail.com) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/Konstantsin_Slivko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantsin-slivko) |
+| **GitHub** | [![GitHub](https://img.shields.io/badge/Konstantin7200-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Konstantin7200) |
+<!--| **Резюме (PDF)** | [![Resume](https://img.shields.io/badge/📄_Скачать_резюме-8A2BE2?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Konstantin7200/Konstantin7200/raw/main/resume.pdf) |-->
+
+</div>
 
 ---
+
 
 ⭐ **Спасибо за внимание** ⭐
